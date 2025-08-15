@@ -18,3 +18,4 @@ A Next.js-powered AI chat application featuring interactive personas of popular 
 - **Shadcn/ui**
 - **OpenAI API**
 
+![App Screenshot](/public/app-Image.png)
