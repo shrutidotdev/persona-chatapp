@@ -95,7 +95,7 @@ export default function PersonaPicker({ onPersonaSelect }: PersonaPickerProps) {
                   </div>
                 )}
 
-                {/* Sample Tune */}
+                {/*  Tune */}
                 <div className="bg-gradient-to-r from-purple-700 via-pink-400 to-purple-500 rounded-lg p-3 border-l-4 border-purple-950">
                   <p className="text-white font-bold italic text-xs line-clamp-2">💭 "{persona.tunes[0]}"</p>
                 </div>
